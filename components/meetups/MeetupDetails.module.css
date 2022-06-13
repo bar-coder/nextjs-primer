@@ -1,0 +1,10 @@
+.container {
+    background-image: 'linear-gradient(to right, #0a2d49,  #1769aa, #2196f3)';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container img {
+    width: 50rem;
+}
